@@ -6,10 +6,11 @@
 
 블레이저를 시작하려면 [blazor.net](https://blazor.net)의 안내를 따라하세요.
 
-* [GIT 설치하기](https://git-scm.com/downloads)
-* [Visual Studio Code + Extensions 설치하기](https://code.visualstudio.com/download)
-* [.NET SDK 7.0 설치하기](https://dotnet.microsoft.com/ko-kr/download)
-* [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [git 설치하기](https://git-scm.com/downloads)
+* [Visual Studio Code 설치하기](https://code.visualstudio.com/download)
+* [C# Dev Kit 익스텐션 설치하기](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+* [.NET SDK 7.0 설치하기](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+* [DB Browser for SQLite](https://sqlitebrowser.org)
 
 ## 첫 번째 앱 만들기
 
